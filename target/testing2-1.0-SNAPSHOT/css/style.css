@@ -1,0 +1,26 @@
+
+.header{
+	border-bottom: 1px solid #f2f2f2;
+    box-shadow: 1px -2px 4px 1px;
+    background-color: #fff;
+    position: fixed;
+    position: fixed!important;
+    height: auto;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+    
+}
+.footer{
+    padding: 2.5rem 0;
+    color: #999;
+    text-align: center;
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+.search{
+	margin-top: 80px;
+    margin-bottom: 20px;
+}

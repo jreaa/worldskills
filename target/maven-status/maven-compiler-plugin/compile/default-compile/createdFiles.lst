@@ -1,0 +1,17 @@
+DAO\PostsDAO.class
+Config\Conexion.class
+Model\TemasCRUD.class
+com\mycompany\testing2\JAXRSConfiguration.class
+Controller\ServletCreateTema.class
+Controller\ServletLogin.class
+Model\PostsCRUD.class
+Controller\ServletCerrarSesion.class
+Controller\ServletDBaja.class
+Model\CRUD.class
+Controller\ServletRegistro.class
+Controller\ServletFollow.class
+com\mycompany\testing2\resources\JavaEE8Resource.class
+DAO\UsuariosDAO.class
+DAO\TemasDAO.class
+Model\UsuariosCRUD.class
+Controller\ServletUpdate.class
